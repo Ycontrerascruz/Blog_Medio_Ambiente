@@ -5,11 +5,17 @@ main img{
 
 main h1{
     text-align: center;
-    text-decoration-line: underline;  
+      
 }
 
 body{
     margin: 0;
     padding: 0;
 }
-.b
+
+main p{
+    text-align: justify;
+padding: 5px;
+margin: 20px;
+font-size: larger;
+}

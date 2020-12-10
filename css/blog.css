@@ -45,9 +45,9 @@ padding: 30px;
 
 
 .blog-tittle{ 
-    text-align: center;
-    text-decoration-line: underline;
-    font-size:x-large
+    text-align: center !important;
+    
+    font-size:x-large !important
    
 }
 
